@@ -2,7 +2,6 @@
 
 I'm a software engineer from Perth.
 
-
 <details>
 <summary>
   More stuff about me
@@ -22,15 +21,12 @@ I'm a software engineer from Perth.
 - HTML, CSS
 - MySQL
 
-
 ### Application Development
 - C# ()
 - Python ()
 - C++ (sort of)
 
 ### Productivity utilities
-
-
 
 ## What I'm currently learning 📚
 
