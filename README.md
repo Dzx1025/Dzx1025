@@ -20,7 +20,6 @@ I'm a software engineer from Perth.
 ### Web technologies
 
 - HTML, CSS
-  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
 - MySQL
 
 
