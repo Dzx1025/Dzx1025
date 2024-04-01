@@ -1,18 +1,15 @@
-# Hi everyone :wave:
+## Hi everyone :wave:
 
-I'm a software engineer from Perth.
+I am a software developer from Perth.
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/zeke-ding-2898182b8/)
 
 <details>
 <summary>
-  More stuff about me
+  <b>More stuff about me</b>
 </summary>
 
-## Quick Overview
-
-#### GitHub stats 
-- Latest blog post: <a class="post" href="">"" ()</a>
-
-### What I do
+## Quick Overview 📌
 
 ## My skills 📜
 
@@ -24,7 +21,7 @@ I'm a software engineer from Perth.
 ### Application Development
 - C# ()
 - Python ()
-- C++ (sort of)
+- C++ ()
 
 ### Productivity utilities
 
@@ -34,4 +31,8 @@ I'm a software engineer from Perth.
 - Next.js
 - Rust Maybe
 
+### GitHub stats 
+- Latest blog post: <a class="post" href=""> </a>
+
+### What I do
 </details>
