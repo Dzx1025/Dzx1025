@@ -1,16 +1,19 @@
 <h1 align="center">Hi! 👋 I am Zeke</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dzx1025&style=for-the-badge&color=023373" alt="profile views"/>
-</p>
-
 I'm a Software Student Developer passionate about Web Development and UX, currently based in Perth.
 
 <h2 align="center"> 📊 My Statistics </h2>
 
-![dzx1025's Stats](https://github-readme-stats.vercel.app/api?username=dzx1025&theme=transparent&show_icons=true)
+<div align="center">
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dzx1025&theme=transparent&show_icons=true" alt="dzx1025's GitHub Stats"/>
+  </div>
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzx1025&theme=transparent&show_icons=true&layout=compact&card_width=467" alt="dzx1025's Top Languages"/>
+  </div>
+</div>
 
-![dzx1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzx1025&theme=transparent&show_icons=true&layout=compact&card_width=467)
+![](https://komarev.com/ghpvc/?username=dzx1025&style=flat&color=023373)
 
 <h2 align="center"> 💻 Technical Skills </h2>
 
