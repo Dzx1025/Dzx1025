@@ -74,11 +74,11 @@ I'm a Software Student Developer passionate about Web Development and UX, curren
   <a href="https://www.linkedin.com/in/zekeding/">
     <img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=linkedin&color=0A66C2" alt="LinkedIn Badge">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:zexuding1025@gmail.com">
     <img src="https://img.shields.io/badge/Email-zexuding1025@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email Badge 2">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://dzx1025.github.io/">
     <img src="https://img.shields.io/badge/Website-Zeke's%20Blog-blue?style=for-the-badge&logo=blogger&logoColor=white&color=black" alt="Website Badge">
   </a>
