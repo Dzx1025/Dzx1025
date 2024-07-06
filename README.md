@@ -19,7 +19,7 @@ I'm a Software Student Developer passionate about Web Development and UX, curren
 
 <p align="center">
   <a>
-    <img src="https://img.shields.io/badge/C%23-023373?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
+    <img src="https://img.shields.io/badge/C%23-023373?style=for-the-badge&logo=sharp&logoColor=white" alt="C# Badge"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/.NET-023373?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -56,9 +56,6 @@ I'm a Software Student Developer passionate about Web Development and UX, curren
   </a>
   <a>
     <img src="https://img.shields.io/badge/MySQL-023373?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-023373?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge"/>
   </a>
 </p>
 
