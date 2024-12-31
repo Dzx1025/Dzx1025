@@ -31,6 +31,9 @@ I'm a Software Student Developer passionate about Web Development and UX, curren
     <img src="https://img.shields.io/badge/JavaScript-023373?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
   </a>
   <a>
+    <img src="https://img.shields.io/badge/TypeScipt-023373?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/Bash-023373?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge">
   </a>
   <a>
