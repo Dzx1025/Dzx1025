@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋 I am Zeke</h1>
 
-I'm a Software Student Developer passionate about Web Development and UX, currently based in Perth.
+I’m a developer passionate about Web Development and UX, currently based in Perth.
 
 <h2 align="center"> 📊 My Statistics </h2>
 
@@ -61,12 +61,6 @@ I'm a Software Student Developer passionate about Web Development and UX, curren
     <img src="https://img.shields.io/badge/MySQL-023373?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
   </a>
 </p>
-
-<h2 align="center"> 🌱 My Interested </h2>
-
-- Web Dev
-- PPE (Philosophy, Politics and Economics)
-- Pop, Symphony and Absolute Music
 
 <h2 align="center"> 📫 How to Reach Me </h2>
 
