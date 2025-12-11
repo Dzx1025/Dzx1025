@@ -1,16 +1,11 @@
 <h1 align="center">Hi! 👋 I am Zeke</h1>
 
-I’m a developer passionate about Web Development and UX, currently based in Perth.
+I’m a developer passionate about CS and UX, currently based in Perth.
 
 <h2 align="center"> 📊 My Statistics </h2>
 
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=dzx1025&theme=transparent&show_icons=true" alt="dzx1025's GitHub Stats"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzx1025&theme=transparent&show_icons=true&layout=compact&card_width=467" alt="dzx1025's Top Languages"/>
-  </div>
+    <img src="https://githubcard.com/dzx1025.svg" alt="dzx1025's GitHub Stats"/>
 </div>
 
 ![Views](https://komarev.com/ghpvc/?username=dzx1025&style=flat&color=023373)
@@ -20,9 +15,6 @@ I’m a developer passionate about Web Development and UX, currently based in Pe
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/C%23-023373?style=for-the-badge&logo=sharp&logoColor=white" alt="C# Badge"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/.NET-023373?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/Python-023373?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
@@ -55,10 +47,19 @@ I’m a developer passionate about Web Development and UX, currently based in Pe
     <img src="https://img.shields.io/badge/HTML5-023373?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/CSS3-023373?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/CSS-023373?style=for-the-badge&logo=css&logoColor=white" alt="CSS Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/MySQL-023373?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/Django-023373?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Next.js-023373?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
+  </a>  
+  <a>
+    <img src="https://img.shields.io/badge/Hasura-023373?style=for-the-badge&logo=hasura&logoColor=white" alt="Hasura Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/PostgreSQL-023373?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   </a>
 </p>
 
