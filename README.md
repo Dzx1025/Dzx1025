@@ -5,7 +5,13 @@ I’m a developer passionate about CS and UX, currently based in Perth.
 <h2 align="center"> 📊 My Statistics </h2>
 
 <div align="center">
-    <img src="https://githubcard.com/dzx1025.svg" alt="dzx1025's GitHub Stats"/>
+    <div>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dzx1025&theme=github" alt="GitHub Stats"/>
+    </div>
+    <div>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dzx1025&theme=github" alt="Top Languages"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dzx1025&theme=github" alt="Stats"/>
+    </div>
 </div>
 
 ![Views](https://komarev.com/ghpvc/?username=dzx1025&style=flat&color=023373)
